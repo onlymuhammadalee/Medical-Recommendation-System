@@ -1,1 +1,3 @@
 # Medical-Recommendation-System
+
+This project is a machine learning-based medical recommendation system designed to assist users in identifying possible diseases based on their symptoms. The system employs a Support Vector Classifier (SVC) model, which has been trained on a comprehensive medical dataset. By inputting symptoms, users receive predictions about the possible disease, along with a detailed description of the condition. Additionally, the system provides recommendations on diet, workout routines, and medications tailored to the diagnosed condition. This project combines machine learning with healthcare insights to offer a supportive tool for preliminary medical guidance and recommendations.
